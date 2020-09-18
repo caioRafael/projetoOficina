@@ -1,0 +1,42 @@
+#whats{
+	width: 20px;
+}
+html,body{
+	background-color: #1b42b0;
+	padding:0px;
+	margin:0px;
+}
+
+#link{
+	color: yellow;
+}
+
+#cont{
+	width:33%;
+	font-size: 15px;
+	color:white;
+	font-style:unset;
+}
+
+#a{
+	background-color: gray;
+}
+#conteudo{
+	background-color: white;
+	border: 3px;
+	border-radius: 20px;
+	margin-top: 30px;
+
+}
+#rodape{
+	background-image: linear-gradient(to bottom right, gray, white);
+}
+#servicos{
+	width: 200px;
+	height: 200px;
+	margin: 10%;
+}
+h1{
+	color: yellow;
+	font-style:unset;
+}
